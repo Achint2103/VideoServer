@@ -140,7 +140,8 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 
 - **Channel Page**:
 
-![channel page](https://user-images.githubusercontent.com/101933251/202870636-20fad076-a93f-4d3b-b104-8d8927211f76.JPG)
+![channel page](https://github.com/Achint2103/VideoServer/assets/87437738/ae7f8d41-d2aa-4e04-8be1-7a1138406f3c)
+
 
 - **Channel Page as Logged**:
 
