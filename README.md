@@ -120,11 +120,13 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 
 - **Home Page**:
 
-![home](https://user-images.githubusercontent.com/101933251/202870552-727f119b-4fe0-493b-85f6-7a5cdb65fad7.JPG)
+![home](https://github.com/Achint2103/VideoServer/assets/87437738/d6ff75be-3b54-44f6-9d6d-dbe8f9c03008)
+
 
 - **Home Page as Logged**:
 
-![home auth](https://user-images.githubusercontent.com/101933251/202870572-b1679ac9-09d0-4007-89f2-ed888141783f.JPG)
+![home auth](https://github.com/Achint2103/VideoServer/assets/87437738/7effd49a-e137-43ff-8604-21d65068ba13)
+
 
 - **Video Upload Page**:
 
