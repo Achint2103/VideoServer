@@ -136,7 +136,7 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 
 - **Video Page**:
 
-![video](https://user-images.githubusercontent.com/101933251/202870622-6f169452-2ebd-4ad2-9cb9-1a83a278c492.JPG)
+![video](https://github.com/Achint2103/VideoServer/assets/87437738/04a493b6-1bf3-4177-a036-481340efa3d0)
 
 - **Channel Page**:
 
