@@ -40,7 +40,8 @@ Now, you already installed the NPM dependencies. Now you can run the client and 
 
 ![client](https://user-images.githubusercontent.com/101933251/201528501-28771b7e-18f0-4d71-bd7e-d658ceb6e47f.jpg)
 
-![react ui](https://user-images.githubusercontent.com/101933251/201528116-ec735d1d-915c-4fa3-9ae7-1c4a6f3afac0.JPG)
+![Screenshot 2023-08-08 010436](https://github.com/Achint2103/VideoServer/assets/87437738/db6fc041-d58c-478f-8d91-b1d8e49276ce)
+
 
 **Run Server**: Server will run at `localhost:5000`. To run the server, use the commands:
 
