@@ -143,6 +143,4 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 ![channel page](https://github.com/Achint2103/VideoServer/assets/87437738/ae7f8d41-d2aa-4e04-8be1-7a1138406f3c)
 
 
-- **Channel Page as Logged**:
 
-![auth channel page](https://user-images.githubusercontent.com/101933251/202870651-85b75236-ae89-417c-b5bf-865ca5a6bc82.JPG)
