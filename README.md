@@ -17,10 +17,10 @@ For both main files in the project folder, you have to go to the terminal and in
 ![Screenshot 2023-08-08 005600](https://github.com/Achint2103/VideoServer/assets/87437738/84f842c1-43c5-42de-a198-3dd95c698782)
 
 
-
 - `cd server` and then `npm install`
 
-![server](https://user-images.githubusercontent.com/101933251/201527180-7a0260f4-d413-47ae-abbf-28671ea77916.JPG)
+![Screenshot 2023-08-08 005718](https://github.com/Achint2103/VideoServer/assets/87437738/4baf2cbc-ac58-430e-a2d7-9c328cb14d18)
+
 
 **2. Config .env**
 
