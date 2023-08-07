@@ -131,7 +131,8 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 
 - **Video Upload Page**:
 
-![upload file](https://user-images.githubusercontent.com/101933251/202870603-8d866501-6eb8-4882-96b3-3d119126863a.JPG)
+![upload file](https://github.com/Achint2103/VideoServer/assets/87437738/8e70cbd4-c066-443b-9a2c-f1cf9dd536a9)
+
 
 - **Video Page**:
 
