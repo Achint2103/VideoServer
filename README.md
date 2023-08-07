@@ -6,7 +6,8 @@
 
 The project contains two basic folders: `client` and `server`. Client is the front end of the application and is written in React.js. Server is the back end of the application and is written in Node.js. To run this project, download it to your computer and open it with a code editor:
 
-[Screenshot 2023-08-08 004239](https://github.com/Achint2103/VideoServer/assets/87437738/3e72a116-dd77-4aae-ab6c-247697921774)
+![Screenshot 2023-08-08 004239](https://github.com/Achint2103/VideoServer/assets/87437738/3571fd0f-73e9-4716-9ac5-5d88f58aceac)
+
 
 
 For both main files in the project folder, you have to go to the terminal and install the NPM dependencies. To do this:
