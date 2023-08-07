@@ -14,7 +14,9 @@ For both main files in the project folder, you have to go to the terminal and in
 
 - `cd client` and then `npm install`
 
-![client](https://user-images.githubusercontent.com/101933251/201527159-3edd9120-8b31-48c5-b0e8-a153c6f0ace0.JPG)
+![Screenshot 2023-08-08 005600](https://github.com/Achint2103/VideoServer/assets/87437738/84f842c1-43c5-42de-a198-3dd95c698782)
+
+
 
 - `cd server` and then `npm install`
 
