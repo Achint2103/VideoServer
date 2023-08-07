@@ -110,7 +110,9 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 
 - **Sign Up Page**:
 
-![sign up](https://user-images.githubusercontent.com/101933251/202870586-d8b28a75-f772-4dc1-9891-9f94bda5f575.JPG)
+
+![sign up](https://github.com/Achint2103/VideoServer/assets/87437738/81aadae3-c2ab-4574-8577-bbe41d8bf3ef)
+
 
 - **Sign In Page**
 
