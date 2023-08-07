@@ -125,7 +125,8 @@ Note: Your information resolved in the token will be kept in the `req.user` obje
 
 - **Home Page as Logged**:
 
-![home auth](https://github.com/Achint2103/VideoServer/assets/87437738/7effd49a-e137-43ff-8604-21d65068ba13)
+![home auth](https://github.com/Achint2103/VideoServer/assets/87437738/bb445dca-0309-4a78-8060-f154e0b3550c)
+
 
 
 - **Video Upload Page**:
